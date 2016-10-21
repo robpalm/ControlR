@@ -10,7 +10,7 @@ namespace ControlR.Console
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Starting...");
+            System.Console.WriteLine("Starting ControlR Console...");
         }
     }
 }
