@@ -11,6 +11,11 @@ namespace ControlR.Console
         static void Main(string[] args)
         {
             System.Console.WriteLine("Starting ControlR Console...");
+            new Program().Start();
+        }
+
+        private void Start()
+        {
         }
     }
 }
